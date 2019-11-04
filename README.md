@@ -1,9 +1,13 @@
 # instruments
 
 Main: ru.trushkin.instruments.Main
+
 Package: uberjar
+
 Build: Maven
+
 Property file: https://github.com/alex2410/instruments/blob/master/src/main/resources/instruments.properties
+
 Description:
 
 In the financial world we're operating on a term "financial instrument". You can think of it as of a collection of prices of currencies, commodities, derivatives, etc.
